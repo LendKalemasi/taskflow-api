@@ -14,20 +14,26 @@ A lightweight REST API for managing tasks, built with FastAPI and SQLite. Suppor
 
 ### 1. Clone the repository
 
+```bash
 git clone https://github.com/yourusername/taskflow-api.git
-cd taskflow-api
+```
 
 ### 2. Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the server
 
+```bash
 python -m uvicorn main:app --reload
-
+```
 ### 4. Open the interactive docs
 
+```
 http://127.0.0.1:8000/docs
+```
 
 ## Endpoints
 
