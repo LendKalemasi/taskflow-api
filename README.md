@@ -40,7 +40,7 @@ http://127.0.0.1:8000/docs
 | DELETE | /tasks/{id} | Delete a task |
 
 ## Project Structure
-
+```
 taskflow-api/
 ├── main.py
 ├── database.py
@@ -51,3 +51,4 @@ taskflow-api/
 ├── README.md
 └── routers/
     └── tasks.py
+```
