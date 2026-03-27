@@ -15,7 +15,7 @@ A lightweight REST API for managing tasks, built with FastAPI and SQLite. Suppor
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/taskflow-api.git
+git clone https://github.com/LendKalemasi/taskflow-api.git
 ```
 
 ### 2. Install dependencies
